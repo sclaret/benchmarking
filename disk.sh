@@ -60,6 +60,8 @@ function run_all {
   echo "- - - - - "
   run 2048MB
   run 2048MB
+  run 2048MB
+  run 2048MB
 }
 
 #clear_caches
